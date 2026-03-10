@@ -24,12 +24,17 @@ roots.appendChild(heading);
 
 // -------------------------------------------------------------------------------
 
-const fam = React.createElement(
-    "div", 
-    {id: "father"},
-    React.createElement("h1",{},"I am father"),
-    React.createElement("h1",{},"I am mother"),
-    React.createElement("h1",{},"I am child")
-)
-const member = ReactDOM.createRoot(document.getElementById("home"))
-member.render(fam);
+// const fam = React.createElement(
+//     "div", 
+//     {id: "father"},
+//     React.createElement("h1",{},"I am father"),
+//     React.createElement("h1",{},"I am mother"),
+//     React.createElement("h1",{},"I am child")
+// )
+// const member = ReactDOM.createRoot(document.getElementById("home"))
+// member.render(fam);
+
+
+// ----------------------------------------------------------------------------------
+
+
